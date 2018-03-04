@@ -1,6 +1,10 @@
 # stdevopscicdjenkinspipelinemavengradle
 
 
+## CI & CD pipeline With Jenkins, Gradle and Artifactory
+### Build CI and CD pipeline with Jenkins and Gradle
+
+
 
 ## Operational Consideration For Jenkins
 ### 1 Jenkins Security
@@ -10,7 +14,7 @@ some config:
 - Security Realm->Jenkins own user database
 
 
-### Scaling Jenkins
+### 2 Scaling Jenkins
 ###### 07:20
 manage jenkins -> manage nodes ->new node->choose permanent agent.  
 For next step
@@ -19,6 +23,6 @@ For next step
 
 
 
-### Scaling Jenkins (contd.)
+### 3 Scaling Jenkins (contd.)
 Next:
 - download jnlp file from master node
